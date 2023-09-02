@@ -1,6 +1,6 @@
-# CyberSecLabs
+# Cyber Security
 
-Welcome to the CyberSecLabs repository! Here, you'll find a curated collection of practical cybersecurity projects, guides, and tools to enhance your digital defense.
+Welcome to the Cyber Security repo! Here, you'll find a curated collection of practical cybersecurity projects, guides, and tools to enhance your digital defense.
 
 ## Table of Contents
 
@@ -33,4 +33,4 @@ To get started with Cybersecurity Projects:
 
 ---
 
-Thank you for visiting CyberSecLabs! We hope this repository serves as a valuable resource for enhancing your cybersecurity knowledge and skills. If you have questions, ideas, or suggestions, please feel free to open an issue or start a discussion. Together, we'll strengthen our digital defenses.
+Thank you for visiting our Cyber Security repo! We hope this repository serves as a valuable resource for enhancing your cybersecurity knowledge and skills. If you have questions, ideas, or suggestions, please feel free to open an issue or start a discussion. Together, we'll strengthen our digital defenses.
